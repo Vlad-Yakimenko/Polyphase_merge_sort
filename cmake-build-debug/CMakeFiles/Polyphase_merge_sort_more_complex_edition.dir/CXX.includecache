@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/usr/CLionProjects/Algorithms and complexity/Polyphase merge sort more complex edition/main.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+string
+-
+vector
+-
+ctime
+-
+
